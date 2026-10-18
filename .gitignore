@@ -1,0 +1,18 @@
+# Third-party source documents and extracted figures are cited in injury/sources.md, not
+# redistributed. Keep them out of the repository.
+*.pdf
+*.mdb
+*.accdb
+*.jp2
+*.gif
+*.png
+*.jpg
+*.jpeg
+
+# Python / editor artifacts
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
